@@ -1,16 +1,17 @@
+
 <!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
-<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-		<title>Elementor #1181 – Kafe PDF</title>
-<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
-<link rel="dns-prefetch" href="http://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Kafe PDF » Feed" href="http://kafe-pdf.rf.gd/feed/">
-<link rel="alternate" type="application/rss+xml" title="Kafe PDF » Comments Feed" href="http://kafe-pdf.rf.gd/comments/feed/">
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+		<title>Jasa Pembuatan Website Ilham &#8211; Kafe PDF</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kafe PDF &raquo; Feed" href="http://kafe-pdf.rf.gd/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kafe PDF &raquo; Comments Feed" href="http://kafe-pdf.rf.gd/comments/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/kafe-pdf.rf.gd\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="./Elementor #1181 – Kafe PDF_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		</script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -25,36 +26,36 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="wp-block-library-css" href="./Elementor #1181 – Kafe PDF_files/style.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="poseidon-stylesheet-css" href="./Elementor #1181 – Kafe PDF_files/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="poseidon-genericons-css" href="./Elementor #1181 – Kafe PDF_files/genericons.css" type="text/css" media="all">
-<link rel="stylesheet" id="poseidon-default-fonts-css" href="./Elementor #1181 – Kafe PDF_files/css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-icons-css" href="./Elementor #1181 – Kafe PDF_files/elementor-icons.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-animations-css" href="./Elementor #1181 – Kafe PDF_files/animations.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-frontend-css" href="./Elementor #1181 – Kafe PDF_files/frontend.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-global-css" href="./Elementor #1181 – Kafe PDF_files/global.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-post-1181-css" href="./Elementor #1181 – Kafe PDF_files/post-1181.css" type="text/css" media="all">
-<link rel="stylesheet" id="google-fonts-1-css" href="./Elementor #1181 – Kafe PDF_files/css(1)" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Elementor #1181 – Kafe PDF_files/fontawesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="./Elementor #1181 – Kafe PDF_files/brands.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Elementor #1181 – Kafe PDF_files/solid.min.css" type="text/css" media="all">
+<link rel='stylesheet' id='wp-block-library-css'  href='http://kafe-pdf.rf.gd/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='poseidon-stylesheet-css'  href='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/style.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='poseidon-genericons-css'  href='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/css/genericons/genericons.css?ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='poseidon-default-fonts-css'  href='//fonts.googleapis.com/css?family=Ubuntu%3A400%2C400italic%2C700%2C700italic%7CRaleway%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://kafe-pdf.rf.gd/wp-content/uploads/elementor/css/global.css?ver=1597674995' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1181-css'  href='http://kafe-pdf.rf.gd/wp-content/uploads/elementor/css/post-1181.css?ver=1597674992' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
 <!--[if lt IE 9]>
 <script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/js/html5shiv.min.js?ver=3.7.2'></script>
 <![endif]-->
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/jquery.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/jquery-migrate.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/navigation.js.download"></script>
-<link rel="https://api.w.org/" href="http://kafe-pdf.rf.gd/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kafe-pdf.rf.gd/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kafe-pdf.rf.gd/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.0.10">
-<link rel="canonical" href="http://kafe-pdf.rf.gd/elementor-1181/">
-<link rel="shortlink" href="http://kafe-pdf.rf.gd/?p=1181">
-<link rel="alternate" type="application/json+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Felementor-1181%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Felementor-1181%2F&amp;format=xml">
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/js/navigation.js?ver=5.0.10'></script>
+<link rel='https://api.w.org/' href='http://kafe-pdf.rf.gd/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kafe-pdf.rf.gd/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kafe-pdf.rf.gd/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.10" />
+<link rel="canonical" href="http://kafe-pdf.rf.gd/website-ilham/" />
+<link rel='shortlink' href='http://kafe-pdf.rf.gd/?p=1181' />
+<link rel="alternate" type="application/json+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Fwebsite-ilham%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Fwebsite-ilham%2F&#038;format=xml" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-			<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
-<body class="page-template page-template-elementor_canvas page page-id-1181 elementor-default elementor-template-canvas elementor-kit-1183 elementor-page elementor-page-1181" data-elementor-device-mode="desktop">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="page-template page-template-elementor_canvas page page-id-1181 elementor-default elementor-template-canvas elementor-kit-1183 elementor-page elementor-page-1181">
 			<div data-elementor-type="wp-post" data-elementor-id="1181" class="elementor elementor-1181" data-elementor-settings="[]">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
@@ -68,7 +69,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-73ee4ad4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="73ee4ad4" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe class="elementor-video-iframe" allowfullscreen="" title="youtube Video Player" src="./Elementor #1181 – Kafe PDF_files/8HUi90wooIA.html"></iframe>		</div>
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/embed/8HUi90wooIA?feature=oembed&amp;autoplay=1&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=1&amp;rel=1&amp;modestbranding=0"></iframe>		</div>
 				</div>
 				</div>
 						</div>
@@ -113,12 +114,12 @@ img.emoji {
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
+				<span class="elementor-icon elementor-animation-" >
 				<i aria-hidden="true" class="fab fa-connectdevelop"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
-					<span>Mengapa Website?</span>
+					<span >Mengapa Website?</span>
 				</h3>
 								<p class="elementor-icon-box-description">Tahukah anda, bahwa tingkat kepercayaan pelanggan terhadap suatu perusahaan atau organisasi lebih meningkat jika memiliki website?. Mungkin anda pernah berpikir dapat membangun brand dari micro site atau social media. Namun tetap saja tidak maksimal. Karena micro site atau sosial media tidak bisa mewakili brand anda. Selain itu, dengan memiliki website akan mengoptimalkan promosi. Website akan memperkenalkan usaha yang anda jalani ke seluruh dunia kapanpun, dimanapun. Website seperti alat marketing yang tak henti-hentinya berpromosi, meskipun anda sedang tidur.
 
@@ -137,7 +138,7 @@ Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha an
 				<div class="elementor-element elementor-element-54679724 elementor-widget elementor-widget-image" data-id="54679724" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="572" height="555" src="./Elementor #1181 – Kafe PDF_files/study_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1.jpg 572w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1-300x291.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">											</div>
+										<img width="572" height="555" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1.jpg 572w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1-300x291.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" />											</div>
 				</div>
 				</div>
 						</div>
@@ -155,7 +156,7 @@ Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha an
 				<div class="elementor-element elementor-element-3c3e0ab8 elementor-widget elementor-widget-image" data-id="3c3e0ab8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="570" height="498" src="./Elementor #1181 – Kafe PDF_files/study-box_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px">											</div>
+										<img width="570" height="498" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											</div>
 				</div>
 				</div>
 						</div>
@@ -207,7 +208,7 @@ Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha an
 				</div>
 				<div class="elementor-element elementor-element-24bc8f74 elementor-widget elementor-widget-text-editor" data-id="24bc8f74" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Website akan membuat anda menjangkau target market dengan lebih luas.&nbsp;Apapun bisnis anda entah itu menjual produk maupun jasa, website akan selalu menjadi tempat alternatif yang menarik untuk mempromosikannya. karena selain mudah diakses juga menjangkau hingga ke berbagai daerah terpencil sekalipun selama ditempat itu ada jaringan internet.</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p>Website akan membuat anda menjangkau target market dengan lebih luas. Apapun bisnis anda entah itu menjual produk maupun jasa, website akan selalu menjadi tempat alternatif yang menarik untuk mempromosikannya. karena selain mudah diakses juga menjangkau hingga ke berbagai daerah terpencil sekalipun selama ditempat itu ada jaringan internet.</p></div>
 				</div>
 				</div>
 						</div>
@@ -219,7 +220,7 @@ Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha an
 				<div class="elementor-element elementor-element-1930626f elementor-widget elementor-widget-image" data-id="1930626f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="570" height="498" src="./Elementor #1181 – Kafe PDF_files/library.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px">											</div>
+										<img width="570" height="498" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											</div>
 				</div>
 				</div>
 						</div>
@@ -231,17 +232,16 @@ Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha an
 						</div>
 			</div>
 		</div>
-		<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/wp-embed.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/frontend-modules.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/position.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/dialog.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/waypoints.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/swiper.min.js.download"></script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/share-link.min.js.download"></script>
-<script type="text/javascript">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"http:\/\/kafe-pdf.rf.gd\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":1181,"title":"Elementor%20%231181%20%E2%80%93%20Kafe%20PDF","excerpt":"","featuredImage":false}};
+		<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/wp-embed.min.js?ver=5.0.10'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"http:\/\/kafe-pdf.rf.gd\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":1181,"title":"Jasa%20Pembuatan%20Website%20Ilham%20%E2%80%93%20Kafe%20PDF","excerpt":"","featuredImage":false}};
 </script>
-<script type="text/javascript" src="./Elementor #1181 – Kafe PDF_files/frontend.min.js.download"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
-	
-
-</body></html>
+<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
+	</body>
+</html>
