@@ -95,7 +95,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 			_W.storeEuPrivacyPolicyUrl = "";
 			com_currentSite = "165668819659513855";
 			com_userID = "133430876";</script><script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
-<script type="text/javascript" src="http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&"></script><script> _W.themefiles/theme/files/ = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+<script type="text/javascript" src="http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1234&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
 	var IS_ARCHIVE = 1;
 	
 	function initFlyouts(){
@@ -500,12 +500,12 @@ if (document.documentElement.appReady || (window.inEditor && window.inEditor()))
     </div><!-- end footer-wrap -->
   </div>
 
-  <script type="text/javascript" src="files/theme/files/theme/files/.js"></script>
-  <script type="text/javascript" src="files/theme/jquery.pxuMenu.js"></script>
-  <script type="text/javascript" src="files/theme/jquery.trend.js"></script>
-  <script type="text/javascript" src="files/theme/jquery.revealer.js"></script>
-  <script type="text/javascript" src="files/theme/debounce.js"></script>
-  <script type="text/javascript" src="files/theme/custom.js"></script>
+  <script type="text/javascript" src="files/theme/files/plugins.js"></script>
+  <script type="text/javascript" src="files/theme/files/jquery.pxuMenu.js"></script>
+  <script type="text/javascript" src="files/theme/files/jquery.trend.js"></script>
+  <script type="text/javascript" src="files/theme/files/jquery.revealer.js"></script>
+  <script type="text/javascript" src="files/theme/files/debounce.js"></script>
+  <script type="text/javascript" src="files/theme/files/custom.js"></script>
     <div id="customer-accounts-app"></div>
     <script src="http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1234"></script>
 
