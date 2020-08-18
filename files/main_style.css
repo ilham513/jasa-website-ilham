@@ -12,17 +12,17 @@
  ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input { margin: 0; padding: 0; }
  .wsite-button, .blog-button { -webkit-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; padding: 0; height: auto; background-image: none !important; border: 1px solid #00FF8E; }
  .wsite-button .wsite-button-inner, .blog-button .wsite-button-inner { font-family: 'Montserrat', sans-serif; font-size: 16px; color: #000; text-transform: lowercase; -webkit-transition: all 500ms ease; -o-transition: all 500ms ease; transition: all 500ms ease; position: relative; display: block; height: auto; min-width: 170px; padding: 16px 18px; white-space: normal; line-height: 1; font-weight: 700; text-align: center; background-color: #00FF8E; background-image: none !important; overflow: hidden; box-sizing: border-box; }
- .wsite-button .wsite-button-inner:before, .blog-button .wsite-button-inner:before { content: url(theme/images/button-arrow-black.svg?1597764000); float: right; margin-left: 10px; }
+ .wsite-button .wsite-button-inner:before, .blog-button .wsite-button-inner:before { content: url(theme/images/button-arrow-black.svg?1597764603); float: right; margin-left: 10px; }
  .wsite-button:hover, .blog-button:hover { border: 1px solid #000; }
  .wsite-button:hover .wsite-button-inner, .blog-button:hover .wsite-button-inner { color: #fff; background: #000; }
- body.wsite-theme-light .wsite-button:hover .wsite-button-inner:before, body.wsite-theme-light .blog-button:hover .wsite-button-inner:before { content: url(theme/images/button-arrow-white.svg?1597764000); }
+ body.wsite-theme-light .wsite-button:hover .wsite-button-inner:before, body.wsite-theme-light .blog-button:hover .wsite-button-inner:before { content: url(theme/images/button-arrow-white.svg?1597764603); }
  #wsite-mini-cart .wsite-button:hover .wsite-button-inner, #wsite-mini-cart .blog-button:hover .wsite-button-inner { color: #fff; background-color: #000; }
  .wsite-button-highlight { border: 1px solid #000; }
  .wsite-button-highlight .wsite-button-inner { color: #000; background: #fff; }
- body.wsite-theme-dark .wsite-button-highlight .wsite-button-inner:before { content: url(theme/images/button-arrow-white.svg?1597764000); }
+ body.wsite-theme-dark .wsite-button-highlight .wsite-button-inner:before { content: url(theme/images/button-arrow-white.svg?1597764603); }
  .wsite-button-highlight:hover { border: 1px solid #000; }
  .wsite-button-highlight:hover .wsite-button-inner { color: #fff; background: #000; }
- body.wsite-theme-dark .wsite-button-highlight:hover .wsite-button-inner:before { content: url(theme/images/button-arrow-black.svg?1597764000); }
+ body.wsite-theme-dark .wsite-button-highlight:hover .wsite-button-inner:before { content: url(theme/images/button-arrow-black.svg?1597764603); }
  .wsite-button-large .wsite-button-inner { padding: 22px 26px; }
  body { font-family: 'Roboto Slab', serif; width: 100%; height: 100%; background: #fff; color: #888; font-size: 16px; font-weight: normal; line-height: 24px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
  body.wsite-theme-dark { color: #000; }
@@ -34,7 +34,7 @@
  h2 { font-family: 'Montserrat', sans-serif; padding-bottom: 15px; color: #000; font-size: 48px; font-weight: 700; line-height: 1.2em; }
  div.paragraph { font-family: 'Roboto Slab', serif; padding-bottom: 20px; font-size: 16px; font-weight: normal; line-height: 1.5em; }
  p { font-family: 'Roboto Slab', serif; padding-bottom: 20px; font-size: 16px; font-weight: normal; line-height: 1.5em; }
- blockquote { margin: 2em 0; padding: 1em; padding-left: 30px !important; background: url(theme/images/quotes.png?1597764000) no-repeat 0px 25px; color: #666666; border-left: 0px !important; font-family: 'Lato', sans-serif; font-size: 18px; font-weight: bold; line-height: 28px; }
+ blockquote { margin: 2em 0; padding: 1em; padding-left: 30px !important; background: url(theme/images/quotes.png?1597764603) no-repeat 0px 25px; color: #666666; border-left: 0px !important; font-family: 'Lato', sans-serif; font-size: 18px; font-weight: bold; line-height: 28px; }
  ::-webkit-input-placeholder, :-moz-placeholder, ::-moz-placeholder, :-ms-input-placeholder { color: #666666; }
  input[type="text"], input[type="email"], textarea { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-appearance: none; -moz-appearance: none; appearance: none; text-shadow: none; box-sizing: border-box; background-image: none !important; }
  textarea { resize: none; }
@@ -218,7 +218,7 @@
  #wsite-mini-cart .wsite-product-list .wsite-description-wrapper .wsite-product-price { color: #a4a4a4; }
  #wsite-mini-cart .wsite-product-list .wsite-empty-cart { font-family: 'Montserrat', sans-serif; color: #000; font-size: 36px; font-weight: 700; }
  #wsite-mini-cart .wsite-product-list li { display: inline-block; overflow: hidden; }
- #wsite-mini-cart .wsite-product-list li .wsite-remove-button { position: absolute; top: 0; right: 32px; margin-top: 0; width: 30px; height: 30px; background: url('theme/images/close.svg?1597764000'); }
+ #wsite-mini-cart .wsite-product-list li .wsite-remove-button { position: absolute; top: 0; right: 32px; margin-top: 0; width: 30px; height: 30px; background: url('theme/images/close.svg?1597764603'); }
  #wsite-mini-cart .wsite-product-list li .wsite-items-right { display: block; padding-right: 0; width: 100%; text-align: center; overflow: hidden; }
  #wsite-mini-cart .wsite-product-list li .wsite-product-price { font-family: 'Roboto Slab', serif; padding-right: 0; width: 100%; font-size: 16px; font-weight: 400; text-align: center; color: #a4a4a4; }
  .wsite-cart-bottom { display: flex; flex-direction: column; justify-content: center; float: right; width: 370px; height: 170px; text-align: center; background: #fff !important; }
@@ -241,7 +241,7 @@
  #wsite-mini-cart .wsite-cart-bottom { padding-top: 30px; padding-bottom: 60px; width: 100%; border-left: none; }
  }
  .banner-wrap { -webkit-flex-shrink: 0; -ms-flex-shrink: 0; flex-shrink: 0; position: relative; margin-top: 80px; }
- .banner-wrap .wsite-header-section { width: 100%; height: 640px; background: url(theme/images/default-bg.jpg?1597764000) center center no-repeat; }
+ .banner-wrap .wsite-header-section { width: 100%; height: 640px; background: url(theme/images/default-bg.jpg?1597764603) center center no-repeat; }
  body.banner-bg-on .banner-wrap .wsite-header-section { vertical-align: bottom; }
  .banner-wrap .container { position: relative; bottom: 0; padding: 0 20px; margin-top: 40px; }
  .banner-wrap .container .banner { padding: 40px 40px 0; text-align: left; box-sizing: border-box; }
@@ -269,7 +269,7 @@
  .footer-wrap h2 { font-family: 'Montserrat', sans-serif; color: #fff; font-size: 12px; font-weight: 700; line-height: normal; text-transform: uppercase; }
  .footer-wrap div.paragraph, .footer-wrap div.paragraph { color: #fff; font-size: 14px; padding: 0 0 15px; }
  .footer-wrap p, .footer-wrap div.paragraph { color: #fff; font-size: 14px; padding: 0 0 15px; }
- .footer-wrap blockquote { font-family: 'Montserrat', sans-serif; background: url(theme/images/quotes.png?1597764000) no-repeat 0px 15px; font-size: 14px; color: #fff; }
+ .footer-wrap blockquote { font-family: 'Montserrat', sans-serif; background: url(theme/images/quotes.png?1597764603) no-repeat 0px 15px; font-size: 14px; color: #fff; }
  .footer-wrap .wsite-form-container { text-align: left; margin-top: 0 !important; }
  .footer-wrap .form-radio-container { color: #fff; font-size: 14px; }
  .footer-wrap .wsite-form-label { color: #fff; }
