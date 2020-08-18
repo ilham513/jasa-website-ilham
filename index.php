@@ -1,247 +1,688 @@
-
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-		<title>Jasa Pembuatan Website Ilham &#8211; Kafe PDF</title>
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Kafe PDF &raquo; Feed" href="http://kafe-pdf.rf.gd/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Kafe PDF &raquo; Comments Feed" href="http://kafe-pdf.rf.gd/comments/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/kafe-pdf.rf.gd\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel='stylesheet' id='wp-block-library-css'  href='http://kafe-pdf.rf.gd/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10' type='text/css' media='all' />
-<link rel='stylesheet' id='poseidon-stylesheet-css'  href='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/style.css?ver=5.0.10' type='text/css' media='all' />
-<link rel='stylesheet' id='poseidon-genericons-css'  href='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/css/genericons/genericons.css?ver=5.0.10' type='text/css' media='all' />
-<link rel='stylesheet' id='poseidon-default-fonts-css'  href='//fonts.googleapis.com/css?family=Ubuntu%3A400%2C400italic%2C700%2C700italic%7CRaleway%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css'  href='http://kafe-pdf.rf.gd/wp-content/uploads/elementor/css/global.css?ver=1597674995' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1181-css'  href='http://kafe-pdf.rf.gd/wp-content/uploads/elementor/css/post-1181.css?ver=1597674992' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.0.10' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
-<!--[if lt IE 9]>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/js/html5shiv.min.js?ver=3.7.2'></script>
-<![endif]-->
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/themes/poseidon/js/navigation.js?ver=5.0.10'></script>
-<link rel='https://api.w.org/' href='http://kafe-pdf.rf.gd/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kafe-pdf.rf.gd/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kafe-pdf.rf.gd/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.0.10" />
-<link rel="canonical" href="http://kafe-pdf.rf.gd/website-ilham/" />
-<link rel='shortlink' href='http://kafe-pdf.rf.gd/?p=1181' />
-<link rel="alternate" type="application/json+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Fwebsite-ilham%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://kafe-pdf.rf.gd/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkafe-pdf.rf.gd%2Fwebsite-ilham%2F&#038;format=xml" />
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-			<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
-<body class="page-template page-template-elementor_canvas page page-id-1181 elementor-default elementor-template-canvas elementor-kit-1183 elementor-page elementor-page-1181">
-			<div data-elementor-type="wp-post" data-elementor-id="1181" class="elementor elementor-1181" data-elementor-settings="[]">
-			<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-38259bd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="38259bd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-4d40aa8f elementor-column elementor-col-50 elementor-top-column" data-id="4d40aa8f" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-73ee4ad4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="73ee4ad4" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/embed/8HUi90wooIA?feature=oembed&amp;autoplay=1&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=1&amp;rel=1&amp;modestbranding=0"></iframe>		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-18e3ae87 elementor-column elementor-col-50 elementor-top-column" data-id="18e3ae87" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-2bc25e61 elementor-widget elementor-widget-heading" data-id="2bc25e61" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-large">Jasa Pembuatan Website</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1fbd0c49 elementor-widget elementor-widget-text-editor" data-id="1fbd0c49" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">Wujudkan impian Anda untuk memiliki website yang lengkap dengan biaya murah dan pengerjaan cepat. Perkenalkan usaha anda ke seluruh dunia dengan jasa pembuatan website kami.</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3d6c2761 elementor-align-left elementor-widget elementor-widget-button" data-id="3d6c2761" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://id.linkedin.com/in/isetiabhakti" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Hubungi kami</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-133c37bb elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="133c37bb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-41dbb0bc elementor-column elementor-col-50 elementor-top-column" data-id="41dbb0bc" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-14593d9e elementor-view-stacked elementor-position-left elementor-shape-circle elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="14593d9e" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fab fa-connectdevelop"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span >Mengapa Website?</span>
-				</h3>
-								<p class="elementor-icon-box-description">Tahukah anda, bahwa tingkat kepercayaan pelanggan terhadap suatu perusahaan atau organisasi lebih meningkat jika memiliki website?. Mungkin anda pernah berpikir dapat membangun brand dari micro site atau social media. Namun tetap saja tidak maksimal. Karena micro site atau sosial media tidak bisa mewakili brand anda. Selain itu, dengan memiliki website akan mengoptimalkan promosi. Website akan memperkenalkan usaha yang anda jalani ke seluruh dunia kapanpun, dimanapun. Website seperti alat marketing yang tak henti-hentinya berpromosi, meskipun anda sedang tidur.
+<!-- saved from url=(0029)https://sample-me.weebly.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="./jasa-website_files/snowday262.js.download"></script><script type="text/javascript" async="" src="./jasa-website_files/ga.js.download"></script><script src="./jasa-website_files/gdprscript.js.download"></script>
+		<title>JASA WEBSITE - Home</title><meta property="og:site_name" content="JASA WEBSITE">
+<meta property="og:title" content="JASA WEBSITE">
+<meta property="og:description" content="Tahukah anda, bahwa tingkat kepercayaan pelanggan terhadap suatu perusahaan atau organisasi lebih meningkat jika memiliki website? ​Website akan memperkenalkan usaha yang anda jalani ke seluruh...">
+<meta property="og:image" content="https://sample-me.weebly.com/uploads/1/3/3/4/133430876/789333732_orig.jpg">
+<meta property="og:url" content="https://sample-me.weebly.com/">
 
-Kami mengerti akan hal itu, dan kami hadir untuk membantu mengembangkan usaha anda. Paket jasa pembuatan website kami adalah paket all in one. Anda tidak perlu memikirkan desain, domain, hosting, atau teknikal pembuatan dan perawatan website. Semua sudah di rangkum dalam paket yang lengkap. Cukup berikan kami materi untuk website anda dalam bentuk company profile, brosur atau apapun mengenai usaha anda. Kami akan buatkan websitenya, merawat dan mengoptimalkannya.
-</p>
-							</div>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-1c656a4e elementor-column elementor-col-50 elementor-top-column" data-id="1c656a4e" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-54679724 elementor-widget elementor-widget-image" data-id="54679724" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="572" height="555" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1.jpg 572w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study_1-300x291.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" />											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-57864922 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="57864922" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-4366617f elementor-column elementor-col-50 elementor-top-column" data-id="4366617f" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-3c3e0ab8 elementor-widget elementor-widget-image" data-id="3c3e0ab8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="570" height="498" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/study-box_1-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-616fe037 elementor-column elementor-col-50 elementor-top-column" data-id="616fe037" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-309fd87 elementor-view-default elementor-widget elementor-widget-icon" data-id="309fd87" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-globe-europe"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1002bbd elementor-widget elementor-widget-heading" data-id="1002bbd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-large">Bisa Selalu terhubung dengan pelanggan</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-506859f2 elementor-widget elementor-widget-text-editor" data-id="506859f2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>keunggulan terbaik dari memiliki website untuk bisnis anda adalah karena membuat anda jadi mampu untuk terhubung selalu dengan konsumen anda. Melalui website anda bisa memahami keinginan konsumen, bahkan hingga berinteraksi baik itu melalui live chat ataupun telepon.</p></div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-4d737baa elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4d737baa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-78f07992 elementor-column elementor-col-50 elementor-top-column" data-id="78f07992" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-3907242a elementor-view-default elementor-widget elementor-widget-icon" data-id="3907242a" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fab fa-mixcloud"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-56b37598 elementor-widget elementor-widget-heading" data-id="56b37598" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-large">Menjangkau Market Luas</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-24bc8f74 elementor-widget elementor-widget-text-editor" data-id="24bc8f74" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Website akan membuat anda menjangkau target market dengan lebih luas. Apapun bisnis anda entah itu menjual produk maupun jasa, website akan selalu menjadi tempat alternatif yang menarik untuk mempromosikannya. karena selain mudah diakses juga menjangkau hingga ke berbagai daerah terpencil sekalipun selama ditempat itu ada jaringan internet.</p></div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-12ff084 elementor-column elementor-col-50 elementor-top-column" data-id="12ff084" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-1930626f elementor-widget elementor-widget-image" data-id="1930626f" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="570" height="498" src="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library.jpg" class="attachment-large size-large" alt="" srcset="http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library.jpg 570w, http://kafe-pdf.rf.gd/wp-content/uploads/2020/08/library-300x262.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-						</div>
-			</div>
-		</div>
-		<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/wp-embed.min.js?ver=5.0.10'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
-<script type='text/javascript'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"http:\/\/kafe-pdf.rf.gd\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":1181,"title":"Jasa%20Pembuatan%20Website%20Ilham%20%E2%80%93%20Kafe%20PDF","excerpt":"","featuredImage":false}};
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="./jasa-website_files/sites.css">
+<link rel="stylesheet" type="text/css" href="./jasa-website_files/fancybox.css">
+<link rel="stylesheet" type="text/css" href="./jasa-website_files/social-icons.css" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="./jasa-website_files/main_style.css" title="wsite-theme-css">
+<link href="./jasa-website_files/css" rel="stylesheet" type="text/css">
+<link href="./jasa-website_files/css(1)" rel="stylesheet" type="text/css">
+<link href="./jasa-website_files/css(2)" rel="stylesheet" type="text/css">
+<link href="./jasa-website_files/css(3)" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-weight:400 !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+
+		<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
 </script>
-<script type='text/javascript' src='http://kafe-pdf.rf.gd/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
-	</body>
-</html>
+<script src="./jasa-website_files/jquery.min.js.download"></script>
+
+<script type="text/javascript" src="./jasa-website_files/stl.js.download"></script>
+<script src="./jasa-website_files/main.js.download"></script><script type="text/javascript">
+		function initCustomerAccountsModels() {
+					(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/CustomerAccounts\/","actions":{"CustomerAccounts":[{"name":"login","len":2,"multiple":false,"standalone":false},{"name":"logout","len":0,"multiple":false,"standalone":false},{"name":"getSessionDetails","len":0,"multiple":false,"standalone":false},{"name":"getAccountDetails","len":0,"multiple":false,"standalone":false},{"name":"getOrders","len":0,"multiple":false,"standalone":false},{"name":"register","len":4,"multiple":false,"standalone":false},{"name":"emailExists","len":1,"multiple":false,"standalone":false},{"name":"passwordReset","len":1,"multiple":false,"standalone":false},{"name":"passwordUpdate","len":3,"multiple":false,"standalone":false},{"name":"validateSession","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.CustomerAccounts.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":"_W.CustomerAccounts.BackboneModelData","collection_namespace":"_W.CustomerAccounts.BackboneCollectionData","bootstrap_namespace":"_W.CustomerAccounts.BackboneBootstrap","models":{"CustomerAccounts":{"_class":"CustomerAccounts.Model.CustomerAccounts","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"CustomerAccounts":{"_class":"CustomerAccounts.Collection.CustomerAccounts"}},"bootstrap":[]});
+})();
+		}
+		if(document.createEvent && document.addEventListener) {
+			var initEvt = document.createEvent('Event');
+			initEvt.initEvent('customerAccountsModelsInitialized', true, false);
+			document.dispatchEvent(initEvt);
+		} else if(document.documentElement.initCustomerAccountsModels === 0){
+			document.documentElement.initCustomerAccountsModels++
+		}
+		</script>
+		<script type="text/javascript"> _W = _W || {}; _W.securePrefix='sample-me.weebly.com'; </script><script>_W = _W || {};
+			_W.customerLocale = "en_US";
+			_W.storeName = null;
+			_W.isCheckoutReskin = false;
+			_W.storeCountry = "ID";
+			_W.storeCurrency = "USD";
+			_W.storeEuPrivacyPolicyUrl = "";
+			com_currentSite = "165668819659513855";
+			com_userID = "133430876";</script><script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="./jasa-website_files/stl.js.download"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"817207426348109540","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false}],
+			"817207426348109540",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{"hasCustomMinicart":true}
+		)
+	}
+//-->
+</script>
+		
+		
+	<style type="text/css">.customer-accounts-app__body[data-v-364d7bb4]{width:100%}.customer-accounts-app__modal-wrapper[data-v-364d7bb4]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-364d7bb4]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-364d7bb4]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-364d7bb4]{background:#000}@media (max-width:750px){.customer-accounts-app__modal[data-v-364d7bb4]{width:100%;height:100%}}</style><style type="text/css">.loading[data-v-09548d63]{display:flex;width:100%;align-items:center;justify-content:center;margin:15px 0}</style><style type="text/css">.page-header__wrapper[data-v-04176401]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.page-header__text[data-v-04176401]{margin:0 32px 0 0}.page-header__divider[data-v-04176401]{height:1px;width:100%;margin:24px 0;background:rgba(0,0,0,.1)}</style><style type="text/css">.form-field[data-v-64b6436e]{margin:16px 0}.form-field__label[data-v-64b6436e]{display:flex;flex-direction:column}.form-field__title[data-v-64b6436e]{margin-bottom:8px;font-size:90%;color:#3b526d}.wsite-theme-dark .form-field__title[data-v-64b6436e]{color:#dfe6ee}.form-field__error[data-v-64b6436e]{margin-top:14px}</style><style type="text/css">.field-error[data-v-60fd9ad5]{color:#ff2825}</style><style type="text/css">.form-instructions[data-v-1b20c747]{margin-bottom:24px}</style><style type="text/css">.site-input[data-v-7c9d3469]{border:1px solid #dbdbdb;padding:8px;border-radius:2px}.site-input__is-invalid[data-v-7c9d3469]{border:1px solid #ff2825}</style><style type="text/css">.actions-row[data-v-e3a0cd02]{margin-top:24px;display:flex;flex-direction:row;justify-content:space-between;align-items:center}.actions-row div[data-v-e3a0cd02]:first-child{margin-right:16px}</style><style type="text/css">.back-button[data-v-089f4bca]{display:flex;flex-direction:row;align-items:center}.back-button__icon[data-v-089f4bca]{margin:0 8px 0 0}</style><style type="text/css">p[data-v-5e8be7b5]{font-weight:700}.order-confirmation__checkbox[data-v-5e8be7b5]{margin-right:6px}.order-confirmation__success-message[data-v-5e8be7b5]{display:flex;flex-direction:row;align-items:center}</style><style type="text/css">.register__privacy-policy[data-v-00b778c0]{margin:24px 0;font-size:small}</style><style type="text/css">.customer-accounts-app__body[data-v-a6d2e276]{width:100%}.customer-accounts-app__modal-wrapper[data-v-a6d2e276]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-a6d2e276]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-a6d2e276]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-a6d2e276]{background:#000}@media (max-width:600px){.customer-accounts-app__modal[data-v-a6d2e276]{width:100%;height:100%}}</style><style type="text/css">.account-details__wrapper[data-v-4c887ac0]{width:100%}.account-details__group[data-v-4c887ac0]{margin-bottom:24px;text-align:left}.account-details__table-container[data-v-4c887ac0]{overflow:auto}.account-details__title[data-v-4c887ac0]{text-align:left;margin-bottom:6px}.account-details__log-out[data-v-4c887ac0]{cursor:pointer}.account-details__error[data-v-4c887ac0]{margin:36px 0;text-align:left}.error[data-v-4c887ac0]{color:#ff2825}</style><style type="text/css">.section-header__wrapper[data-v-1e785cc9]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.section-header__text[data-v-1e785cc9]{margin:24px 0}</style><style type="text/css">.empty-content-area__container[data-v-8fbca36e]{display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:32px;width:100%;min-height:80px;background:#f2f2f2}.wsite-theme-dark .empty-content-area__container[data-v-8fbca36e]{background:#000}</style><style type="text/css">.order-details__table[data-v-244ed988]{width:100%;margin-top:12px;margin-bottom:36px;empty-cells:show;border-collapse:collapse;border-spacing:0;border:none}.order-details__table th[data-v-244ed988]{margin:0;padding:16px;text-align:left;background:#f2f2f2}.wsite-theme-dark .order-details__table th[data-v-244ed988]{background:#000}.order-details__table td[data-v-244ed988]{margin:0;padding:16px;text-align:left}</style><style type="text/css">.shipping-address__wrapper[data-v-4fc55e12]{text-align:left;width:100%}</style><style type="text/css">.reset-password__link[data-v-72d92d0c]{cursor:pointer}</style><link href="./jasa-website_files/free-footer-v3.css" rel="stylesheet"></head>
+	<body class="header-page  wsite-page-index  collapsed-menu-off banner-bg-off  wsite-theme-light fade-in-nav fade-in" style="min-height: 100%; position: relative; height: auto !important; padding-bottom: 62px !important;"><div class="site-overlay"></div>
+  <div class="wrapper">
+    <div class="paris-header fixed">
+      <div class="container">
+        <div class="nav dummy-nav wsite-menu-default"><ul class="site-menu">
+    <li id="active" class="wsite-menu-item-wrap   wsite-nav-1" style="position: relative;">
+    	<a href="https://sample-me.weebly.com/" class="wsite-menu-item" style="position: relative;">
+    		Home
+    	</a>
+    	
+    </li>
+</ul>
+</div>
+        <div class="nav desktop-nav wsite-menu-default"><ul class="site-menu visible">
+    <li id="active" class="wsite-menu-item-wrap">
+    	<a href="https://sample-me.weebly.com/" class="wsite-menu-item">
+    		Home
+    	</a>
+    	
+    </li>
+</ul>
+</div>
+        <label class="hamburger">
+          <span class="hamburger-icon">
+            <div class="hamburger-line"></div>
+            <div class="hamburger-line"></div>
+            <div class="hamburger-line"></div>
+          </span>
+          <span class="menu-text menu-open-text visible">menu</span>
+          <span class="menu-text menu-close-text" style="display: none;">close</span>
+        </label>
+        <div class="logo"><span class="wsite-logo">
+
+	<a href="https://sample-me.weebly.com/">
+	
+	<span id="wsite-title">JASA WEBSITE</span>
+	
+	</a>
+
+</span></div>
+        <div class="site-utils">
+
+          
+
+          <button class="search-icon visible">
+            <svg width="12px" height="13px" viewBox="0 0 12 13">
+              <path d="M7.77381641,9.19956292 L10.9920719,12.4178184 L12.414847,10.9950432 L9.20980439,7.79000058 C9.74708537,6.99373155 10.0605396,6.03546259 10.0605396,5.00435957 C10.0605396,2.2405281 7.80841112,1.77635684e-15 5.03026981,1.77635684e-15 C2.25212851,1.77635684e-15 0,2.2405281 0,5.00435957 C0,7.76819105 2.25212851,10.0087191 5.03026981,10.0087191 C6.0424316,10.0087191 6.98477215,9.71131871 7.77381641,9.19956292 Z M5.03026981,8.00697532 C6.6971546,8.00697532 8.0484317,6.66265846 8.0484317,5.00435957 C8.0484317,3.34606069 6.6971546,2.00174383 5.03026981,2.00174383 C3.36338503,2.00174383 2.01210793,3.34606069 2.01210793,5.00435957 C2.01210793,6.66265846 3.36338503,8.00697532 5.03026981,8.00697532 Z" id="search" stroke="none" fill-rule="evenodd"></path>
+            </svg>
+          </button>
+          <button class="search-close">
+            <span class="search-close-text">close</span>
+            <span class="search-close-icon">
+              <svg width="14px" height="11px" viewBox="51 4 14 11">
+                  <path d="M58,8.57142857 L61.5714286,5 L63,6.42857143 L59.4285714,10 L63,13.5714286 L61.5714286,15 L58,11.4285714 L54.4285714,15 L53,13.5714286 L56.5714286,10 L53,6.42857143 L54.4285714,5 L58,8.57142857 Z" id="close" stroke="none" fill-rule="evenodd"></path>
+              </svg>
+            </span>
+          </button>
+
+          <div class="mini-cart-toggle">
+            
+          </div>
+        </div>
+      </div><!-- end .container -->
+      <div class="mini-cart-overlay">
+        <button class="mini-cart-close">
+          <span class="mini-cart-close-text">close</span>
+          <span class="mini-cart-close-icon">
+            <svg width="14px" height="11px" viewBox="51 4 14 11">
+                <path d="M58,8.57142857 L61.5714286,5 L63,6.42857143 L59.4285714,10 L63,13.5714286 L61.5714286,15 L58,11.4285714 L54.4285714,15 L53,13.5714286 L56.5714286,10 L53,6.42857143 L54.4285714,5 L58,8.57142857 Z" id="close" stroke="none" fill="#000000" fill-rule="evenodd"></path>
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div class="nav collapsed-nav wsite-menu-default" style="height: auto;"><ul class="site-menu">
+    <li id="active" class="wsite-menu-item-wrap">
+    	<a href="https://sample-me.weebly.com/" class="wsite-menu-item">
+    		Home
+    	</a>
+    	
+    </li>
+</ul>
+</div>
+    </div><!-- end .header -->
+
+    <div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-header-section wsite-section-bg-image" style="vertical-align: middle;background-image: url(&quot;/uploads/1/3/3/4/133430876/background-images/725157760.jpg&quot;) ;background-repeat: no-repeat ;background-position: undefined undefined ;background-size: 100% ;background-color: transparent ;background-size: cover;">
+		<div class="wsite-section-content">
+			
+        <div class="container">
+          <div class="banner">
+				<div class="wsite-section-elements">
+					<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff">Jasa Pembuatan Website</font></h2>
+
+<div class="paragraph" style="text-align:center;"><font color="#f8f8f8">100% Murah dan Cepat.</font></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://id.linkedin.com/in/isetiabhakti" target="_blank">
+<span class="wsite-button-inner">Hubungi kami</span>
+</a>
+<div style="height: 40px; overflow: hidden;"></div></div>
+				</div>
+			</div>
+        </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-1" style="height: 627px;">
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:right">
+<a>
+<img src="./jasa-website_files/789333732_orig.jpg" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:63px;"></div>
+
+<h2 class="wsite-content-title">Mengapa Harus Website?</h2>
+
+<div class="wsite-spacer" style="height:17px;"></div>
+
+<div class="paragraph"><span style="color:rgb(114, 111, 111)">Tahukah anda, bahwa tingkat kepercayaan pelanggan terhadap suatu perusahaan atau organisasi lebih meningkat jika memiliki website?<br><br>​Website akan memperkenalkan usaha yang anda jalani ke seluruh dunia kapanpun, dimanapun. Website seperti alat marketing yang tak henti-hentinya berpromosi, meskipun anda sedang tidur.&nbsp;</span></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-image wsite-background-2" style="height: 594px;background-image: url(&quot;/uploads/1/3/3/4/133430876/background-images/580061322.jpg&quot;) ;background-repeat: no-repeat ;background-position: 50% 50% ;background-size: 100% ;background-color: transparent ;background-size: cover;">
+		<div class="wsite-section-content">
+        <div class="container">
+			<div class="wsite-section-elements">
+				<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:27.58945386064%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:44.538606403013%; padding:0 15px;">
+					
+						
+
+<div id="639152367161977965"><div><style type="text/css">
+	#element-d2fa719c-3bff-4681-b0fa-3c91b09076cd .colored-box-content {
+  clear: both;
+  float: left;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: rgba(42,42,42,0.4);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  -webkit-border-top-left-radius: 0px;
+  -moz-border-top-left-radius: 0px;
+  border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-top-right-radius: 0px;
+  border-top-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-bottom-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  -moz-border-bottom-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+</style><div id="element-d2fa719c-3bff-4681-b0fa-3c91b09076cd" data-platform-element-id="848857247979793891-1.0.1" class="platform-element-contents">
+	<div class="colored-box">
+    <div class="colored-box-content">
+        <div style="width: auto"><div></div><h2 class="wsite-content-title" style="text-align:center;"><strong><font color="#d5d5d5">Jasa Pembuatan Website​</font></strong></h2>
+
+<div class="paragraph" style="text-align:left;"><strong><font color="#a1a1a1">​Wujudkan impian Anda untuk memiliki website yang lengkap dengan biaya murah dan pengerjaan cepat. Perkenalkan usaha anda ke seluruh dunia dengan jasa pembuatan website kami.</font></strong></div>
+
+<div style="text-align:center;"><div style="height: 30px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://id.linkedin.com/in/isetiabhakti" target="_blank">
+<span class="wsite-button-inner">chat kami</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div></div>
+    </div>
+</div>
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement639152367161977965() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "848857247979793891-1.0.1";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = /**
+ * This is required for element rendering to be possible
+ * @type {PlatformElement}
+ */
+(function() {
+    var ColoredBox = PlatformElement.extend({
+
+        initialize: function() {
+        }
+
+    });
+
+    return ColoredBox;
+})();
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"top_padding_each":[{"top_padding_index":0},{"top_padding_index":1},{"top_padding_index":2},{"top_padding_index":3},{"top_padding_index":4},{"top_padding_index":5},{"top_padding_index":6},{"top_padding_index":7},{"top_padding_index":8},{"top_padding_index":9},{"top_padding_index":10},{"top_padding_index":11},{"top_padding_index":12},{"top_padding_index":13},{"top_padding_index":14},{"top_padding_index":15},{"top_padding_index":16},{"top_padding_index":17},{"top_padding_index":18},{"top_padding_index":19},{"top_padding_index":20},{"top_padding_index":21},{"top_padding_index":22},{"top_padding_index":23},{"top_padding_index":24},{"top_padding_index":25},{"top_padding_index":26},{"top_padding_index":27},{"top_padding_index":28},{"top_padding_index":29},{"top_padding_index":30},{"top_padding_index":31},{"top_padding_index":32},{"top_padding_index":33},{"top_padding_index":34},{"top_padding_index":35},{"top_padding_index":36},{"top_padding_index":37},{"top_padding_index":38},{"top_padding_index":39}],"bottom_padding_each":[{"bottom_padding_index":0},{"bottom_padding_index":1},{"bottom_padding_index":2},{"bottom_padding_index":3},{"bottom_padding_index":4},{"bottom_padding_index":5},{"bottom_padding_index":6},{"bottom_padding_index":7},{"bottom_padding_index":8},{"bottom_padding_index":9},{"bottom_padding_index":10},{"bottom_padding_index":11},{"bottom_padding_index":12},{"bottom_padding_index":13},{"bottom_padding_index":14},{"bottom_padding_index":15},{"bottom_padding_index":16},{"bottom_padding_index":17},{"bottom_padding_index":18},{"bottom_padding_index":19},{"bottom_padding_index":20},{"bottom_padding_index":21},{"bottom_padding_index":22},{"bottom_padding_index":23},{"bottom_padding_index":24},{"bottom_padding_index":25},{"bottom_padding_index":26},{"bottom_padding_index":27},{"bottom_padding_index":28},{"bottom_padding_index":29},{"bottom_padding_index":30},{"bottom_padding_index":31},{"bottom_padding_index":32},{"bottom_padding_index":33},{"bottom_padding_index":34},{"bottom_padding_index":35},{"bottom_padding_index":36},{"bottom_padding_index":37},{"bottom_padding_index":38},{"bottom_padding_index":39}],"left_padding_each":[{"left_padding_index":0},{"left_padding_index":1},{"left_padding_index":2},{"left_padding_index":3},{"left_padding_index":4},{"left_padding_index":5},{"left_padding_index":6},{"left_padding_index":7},{"left_padding_index":8},{"left_padding_index":9},{"left_padding_index":10},{"left_padding_index":11},{"left_padding_index":12},{"left_padding_index":13},{"left_padding_index":14},{"left_padding_index":15},{"left_padding_index":16},{"left_padding_index":17},{"left_padding_index":18},{"left_padding_index":19},{"left_padding_index":20},{"left_padding_index":21},{"left_padding_index":22},{"left_padding_index":23},{"left_padding_index":24},{"left_padding_index":25},{"left_padding_index":26},{"left_padding_index":27},{"left_padding_index":28},{"left_padding_index":29},{"left_padding_index":30},{"left_padding_index":31},{"left_padding_index":32},{"left_padding_index":33},{"left_padding_index":34},{"left_padding_index":35},{"left_padding_index":36},{"left_padding_index":37},{"left_padding_index":38},{"left_padding_index":39}],"right_padding_each":[{"right_padding_index":0},{"right_padding_index":1},{"right_padding_index":2},{"right_padding_index":3},{"right_padding_index":4},{"right_padding_index":5},{"right_padding_index":6},{"right_padding_index":7},{"right_padding_index":8},{"right_padding_index":9},{"right_padding_index":10},{"right_padding_index":11},{"right_padding_index":12},{"right_padding_index":13},{"right_padding_index":14},{"right_padding_index":15},{"right_padding_index":16},{"right_padding_index":17},{"right_padding_index":18},{"right_padding_index":19},{"right_padding_index":20},{"right_padding_index":21},{"right_padding_index":22},{"right_padding_index":23},{"right_padding_index":24},{"right_padding_index":25},{"right_padding_index":26},{"right_padding_index":27},{"right_padding_index":28},{"right_padding_index":29},{"right_padding_index":30},{"right_padding_index":31},{"right_padding_index":32},{"right_padding_index":33},{"right_padding_index":34},{"right_padding_index":35},{"right_padding_index":36},{"right_padding_index":37},{"right_padding_index":38},{"right_padding_index":39}],"background_color":"#2a2a2a","opacity":40,"top_left_radius":0,"top_right_radius":0,"bottom_left_radius":0,"bottom_right_radius":0,"top_padding":40,"bottom_padding":40,"left_padding":40,"right_padding":40});
+			_Element.prototype.settings.page_element_id = "639152367161977965";
+
+			_Element.prototype.element_id = "d2fa719c-3bff-4681-b0fa-3c91b09076cd";
+			_Element.prototype.user_id = "133430876";
+			_Element.prototype.site_id = "165668819659513855";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-848857247979793891-1.0.1/assets/";
+			new _Element({
+				el: '#element-d2fa719c-3bff-4681-b0fa-3c91b09076cd'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement639152367161977965();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement639152367161977965, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement639152367161977965();
+		}
+	});
+}
+
+</script></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:27.871939736347%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="footer-wrap">
+      <div class="container">
+        <div class="footer">
+
+<style type="text/css">
+	@font-face {
+		font-family: SQMarket-Medium;
+		font-style: normal;
+		font-weight: 500;
+		src:
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2") format("woff2"),
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff") format("woff");
+	}
+</style>
+
+
+
+<script type="text/javascript" src="./jasa-website_files/footerSignup.js.download"></script>
+<script type="text/javascript">
+	if (document.readystate === 'complete') {
+		Weebly.footer.setupContainer('cdn2.editmysite.com', '1597699894');
+	} else {
+		document.addEventListener('DOMContentLoaded', function() {
+			Weebly.footer.setupContainer('cdn2.editmysite.com', '1597699894');
+		});
+	}
+</script>
+</div>
+      </div><!-- end container -->
+    </div><!-- end footer-wrap -->
+  </div>
+
+  <script type="text/javascript" src="./jasa-website_files/plugins.js.download"></script>
+  <script type="text/javascript" src="./jasa-website_files/jquery.pxuMenu.js.download"></script>
+  <script type="text/javascript" src="./jasa-website_files/jquery.trend.js.download"></script>
+  <script type="text/javascript" src="./jasa-website_files/jquery.revealer.js.download"></script>
+  <script type="text/javascript" src="./jasa-website_files/debounce.js.download"></script>
+  <script type="text/javascript" src="./jasa-website_files/custom.js.download"></script>
+    <div id="customer-accounts-app"></div>
+    <script src="./jasa-website_files/main-customer-accounts-site.js.download"></script>
+
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+</script>
+
+<script type="text/javascript" async="1">
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '133430876';
+	_W.Analytics.site_id = '165668819659513855';
+
+	// Setting do not track if the GDPR cookie is not present. This is then checked by the snowday initializer
+	// to set tracking decisions. https://github.com/snowplow/snowplow-javascript-tracker/blob/2.6.2/src/js/tracker.js#L1509
+	window.doNotTrack = document.cookie.indexOf('gdpr-kb') === -1 ? 'yes' : null;
+
+	var drSegmentsTag = document.getElementById('drSegments');
+	if (drSegmentsTag) {
+		_W.Analytics.spContexts = _W.Analytics.spContexts || [];
+
+		var segmentData = JSON.parse(drSegmentsTag.innerText);
+		segmentData.forEach(function(test) {
+			_W.Analytics.spContexts.push({
+				schema: "iglu:com.weebly/context_ab_segment/jsonschema/1-0-0",
+				data: {
+					test_id: test.name,
+					segment: test.variant,
+				}
+			});
+		});
+	}
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			},
+			respectDoNotTrack: document.cookie.indexOf('gdpr-kb') === -1
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id, _W.Analytics.spContexts);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		false
+	);
+</script>
+
+
+
+
+
+<script>
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+<script>
+	window._W.isEUUser = false;
+	window._W.showCookieToAll = "";
+</script>
+
+
+	
+
+<div id="wsite-menus"></div><div id="weebly-footer-signup-container-v3" style="visibility: visible !important; display: block !important; height: 62px; position: fixed !important; bottom: 0px !important; left: 10px; right: 0px !important; width: 290px !important; z-index: 20 !important; overflow: hidden;">
+	<a href="https://www.weebly.com/signup?utm_source=internal&amp;utm_medium=footer" target="_blank" class="signup-container-header" id="signup-link-href" style="visibility: visible !important; display: block !important;">
+		<div class="powered-by" style="visibility: visible !important; display: block !important;">
+			<div class="footer-published-ab-powered-by" style="visibility: visible !important; display: block !important;">
+				Powered by <span class="link weebly-icon" style="visibility: visible !important; display: inline-block !important;"></span>
+				<img class="footer-ab-published-toast-image" src="./jasa-website_files/footer-toast-published-image-1.png" style="visibility: visible !important; display: block !important;">
+				<span class="footer-ab-published-toast-text" style="visibility: visible !important; display: block !important;">Create your own unique website with customizable templates.</span>
+				<span class="footer-ab-published-toast-button-wrapper" style="visibility: visible !important; display: block !important;">
+					<button class="footer-published-ab-button" style="visibility: visible !important; display: block !important;">Get Started</button>
+				</span>
+			</div>
+		</div>
+	</a>
+</div></body></html>
